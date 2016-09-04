@@ -1,6 +1,7 @@
 #include "Event.h"
 /****************************************/
 // BASE CLASS EVENT  
+// test line
 /*****************************************/
 Event::Event() :hndlEvent(nullptr){}
 
